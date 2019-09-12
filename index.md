@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# def __init__(self, anAmazingTeam, threeRoverChallenges, yourSupport):
 
-You can use the [editor on GitHub](https://github.com/novusrimor/novusrimor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Novus Rimor (Latin for "the new explorer") is a National Univeristy of Singapore (NUS) student-led initiative to build a competitive Mars Rover which will represent Singapore in a total of three big-time, exhilarating Mars rover challenges:
+* [NASA's JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
+* [The European Rover Challenge](http://roverchallenge.eu/)
+* [The University Rover Challenge](http://urc.marssociety.org/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As much as it is exciting, constructing a Mars rover is a massive undertaking, especially so since this marks our infant year as first-time competitors. We are starting from scratch and have nothing more to rely on than the sheer ability and willpower of our members. That is why we have gathered (and are still in the process of gathering) the best minds that NUS has to offer. So if you are a multi-systems person with just the right type of crazy, then join us by dropping your details over at novusrimor@gmail.com
 
-### Markdown
+Format: ![We want you](http://roverchallenge.eu/wp-content/uploads/2018/10/NIK_4658-768x513.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/novusrimor/novusrimor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
