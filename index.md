@@ -1,3 +1,4 @@
+# class Novus_Rimor:
 ## def \_\_init\_\_(self, anAmazingTeam, threeRoverChallenges, yourSupport):
 
 Novus Rimor (Latin for "the new explorer") is a National Univeristy of Singapore (NUS) student-led initiative to build a competitive Mars Rover which will represent Singapore in a total of three big-time, exhilarating Mars rover challenges:
